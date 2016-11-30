@@ -8,7 +8,7 @@ import com.lhh.neo4j.common.utils.FormatUtils;
 
 /**
  * 读取恒生聚源数据库的数据(返回对象不返回空)
- * @author lhh
+ * @author hwaggLee
  * @createDate 2016年10月27日
  */
 public class JdbcHSJYDataUtils {

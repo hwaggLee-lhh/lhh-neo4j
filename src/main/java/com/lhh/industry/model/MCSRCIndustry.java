@@ -4,7 +4,7 @@ import com.lhh.base.Neo4jBaseModel;
 
 /**
  * 证监会行业分类-管理行业
- * @author lhh
+ * @author hwaggLee
  * @createDate 2016年10月19日
  */
 public class MCSRCIndustry extends Neo4jBaseModel{

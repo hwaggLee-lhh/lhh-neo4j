@@ -6,7 +6,7 @@ import com.lhh.base.Neo4jBaseModel;
 
 /**
  * 人
- * @author lhh
+ * @author hwaggLee
  * @createDate 2016年10月25日
  */
 @Service
